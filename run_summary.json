@@ -1,0 +1,40 @@
+{
+  "seed": 42,
+  "kelly": {
+    "f_star": 0.10000000000000009,
+    "break_even_fraction": 0.19866844788349147,
+    "max_abs_z_growth": 1.3256505120097644,
+    "p_end_below_start_exact": {
+      "0.5": 0.008664593900016924,
+      "1.0": 0.05985356411390138,
+      "2.0": 0.5122538133326413,
+      "3.0": 0.9541665751606425
+    }
+  },
+  "ruin": {
+    "p_reach_100_from_50": 0.01794853210310394,
+    "fair_game_p_reach_100_from_50": 0.5
+  },
+  "secretary": {
+    "n": 100,
+    "best_cutoff": 38,
+    "best_success_probability": 0.3710427787126431,
+    "one_over_e": 0.36787944117144233
+  },
+  "card_game": {
+    "value_26_26": 2.6244755489939244,
+    "max_abs_z": 1.7272639618829835
+  },
+  "dice_market": {
+    "mu": 0.3,
+    "break_even_k1": 0.4499999999998465,
+    "break_even_k2": 0.6140350877190031,
+    "max_abs_z": 1.78734550967556
+  },
+  "puzzles": {
+    "coupon_mean_exact": 224.96026691647126,
+    "coupon_mean_sim": 225.0957,
+    "max3dice_exact": 4.958333333333333,
+    "max3dice_sim": 4.957692
+  }
+}

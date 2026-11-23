@@ -1,0 +1,4 @@
+puzzle,exact,simulated,se
+"Coupon collector, n=50: mean draws",224.96026691647126,225.0957,0.43611414429348955
+"Coupon collector, n=50: variance",3837.871567137352,3803.910937056853,
+Expected maximum of 3 dice,4.958333333333333,4.957692,0.0011435887988832964
